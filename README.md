@@ -2,6 +2,7 @@ Project Re: Al is a mix of a visual novel and a point-and-click adventure game. 
 Each cutscene provides more insight into the game world and the storyline. At the end, players will be forced to make a choice that will decide the ending they will obtain for the game.
 
 Disclaimer:
+
 The design of the game such as the character and background sprites are heavily inspired by 1BitHeart, which is described as "an adventure game where you make friends" (https://store.steampowered.com/app/618720/1bitHeart/).
 
 All the character sprites have been traced from existing characters from 1BitHeart with some changes to the design and color palette. Hence, none of the character sprites belong to me.
