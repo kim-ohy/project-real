@@ -1,0 +1,86 @@
+.button {
+    -fx-background-color: none;
+    -fx-border-color: none;
+    -fx-border-width: 0;
+}
+
+.anchorPane {
+    -fx-background-color: white;
+}
+
+.rootLayout {
+    -fx-background-color: black;
+}
+
+.dialogBoxTitle {
+    -fx-font-size: 32px;
+    -fx-font-family: "SAS Monospace", Arial;
+}
+
+.dialogBoxText {
+    -fx-font-size: 28px;
+    -fx-font-family: "SAS Monospace", Arial;
+}
+
+.boldBigTitle {
+    -fx-font-size: 32px;
+    -fx-font-family: "SAS Monospace", Arial;
+    -fx-font-weight: bold;
+}
+
+.notesTableView {
+    -fx-background-color: #fbfaff;
+    -fx-border-color: #546a7b;
+    -fx-border-width: 8px;
+    -fx-focus-color: transparent;
+}
+
+.notesTableView .column-header{
+    -fx-background-color: #6a8eae;
+    -fx-focus-color: rgba(251, 250, 255, 0);
+}
+
+.notesTableView .column-header .label{
+    -fx-text-fill: #fbfaff;
+    -fx-font-family: "SAS Monospace", Arial;
+    -fx-font-size: 32px;
+    -fx-opacity: 1;
+    -fx-padding: 10px;
+}
+
+
+.notesTableView .table-row-cell {
+    -fx-font-family: "SAS Monospace", Arial;
+    -fx-font-size: 24px;
+    -fx-background-color: #fbfaff;
+}
+
+.notesTableView .table-row-cell:selected {
+    -fx-background-color: #d5d5d6;
+}
+
+.notesTableView .scroll-bar {
+    -fx-background-color: #6a8eae;
+    -fx-border-width: 0px;
+}
+
+.notesTableView .scroll-bar .thumb {
+    -fx-background-color: #546a7b; /* Color of the thumb */
+    -fx-background-insets: 5; /* Insets around the thumb */
+    -fx-background-radius: 15px; /* Rounded corners for the thumb */
+}
+
+.notesTableView .scroll-bar:horizontal {
+    -fx-pref-height: 30px;
+}
+
+.notesTableView .scroll-bar:vertical {
+    -fx-pref-width: 30px;
+}
+
+.notesTableView .scroll-bar .track {
+    -fx-background-color: #6a8eae;
+    -fx-background-insets: 0;
+    -fx-background-radius: 15px;
+    -fx-border-width: 0px;
+}
