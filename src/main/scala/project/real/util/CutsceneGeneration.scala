@@ -266,7 +266,7 @@ object CutsceneGeneration extends Database {
     dialogArray += Dialog("Re:Al", "After all, you are his murderer. Your jealousy killed him.", gun, aria_scared)
     dialogArray += Dialog("Aria", "...You're right. My jealousy caused his death. It's a fact that won't change no matter how I try to atone for it.",gun, aria_scared)
     dialogArray += Dialog("Aria", "And by attempting to bring you back to life, your father has gone against everything you stood for.",gun, aria_scared)
-    dialogArray += Dialog("Aria", "But he just a father grieving for his son.",gun, aria_scared)
+    dialogArray += Dialog("Aria", "But he is just a father grieving for his son.",gun, aria_scared)
     dialogArray += Dialog("Re:Al", "That will not erase the things that he has done to my body.",gun, aria_scared)
     dialogArray += Dialog("Re:Al", "He is a wretched man who won't even allow the dead to rest in peace...",gun, aria_scared)
     dialogArray += Dialog("Re:Al", "And a cruel man who tosses all his failed creations away without regard.",gun, aria_scared)
@@ -290,7 +290,7 @@ object CutsceneGeneration extends Database {
     dialogArray += Dialog("Aria", "! Thank you, Alex.", gun, aria_v_happy)
     dialogArray += Dialog("Re:Al", "But if it doesn't work, I'm doing things my way.", gun, aria_v_happy)
     dialogArray += Dialog("Aria", "Don't worry! Just leave it to me.", gun, aria_happy)
-    dialogArray += Dialog("Aria", "For now, put your gun way, and let's talk to him first.", gun, aria_sad)
+    dialogArray += Dialog("Aria", "For now, put your gun away, and let's talk to him first.", gun, aria_sad)
   }
 
   val liftTwoQuest1 = new Cutscene(floorTwoLiftBG, "liftTwoQuest1") {
@@ -315,7 +315,7 @@ object CutsceneGeneration extends Database {
     dialogArray += Dialog("Re:Al", "Issac Freud, you have commited vile acts in the name of grief, playing god and toying with life itself...", riel_talking, null)
     dialogArray += Dialog("Re:Al", "You have cut apart your son's body time and time again, putting him back together only to watch him fall apart.", riel_talking, null)
     dialogArray += Dialog("Re:Al", "You have not allowed him a single moment of rest even in death.", riel_talking, null)
-    dialogArray += Dialog("Re:Al", "I, as the materialisation of his will, will punish in his stead.", riel_talking, null)
+    dialogArray += Dialog("Re:Al", "I, as the materialisation of his will, will punish you in his stead.", riel_talking, null)
     dialogArray += Dialog("Re:Al", "May he and all the lives you've ruined rest in peace while you burn in the infernos of hell.", riel_talking, null)
     dialogArray += Dialog("Re:Al", "Farewell.", riel_talking, null)
   }
