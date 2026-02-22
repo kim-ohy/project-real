@@ -3,6 +3,8 @@ Each cutscene provides more insight into the game world and the storyline. At th
 
 This project was my final year project for the Object-Orient Programming subject in my Computer Science degree. It uses object-oriented concepts to create a game in Scala. Each screen in the game is an FXML file created using SceneBuilder.
 
+To play the game, run MainApp.scala and use jdk 1.8.
+
 Disclaimer:
 
 The design of the game such as the character and background sprites are heavily inspired by 1BitHeart, which is described as "an adventure game where you make friends" (https://store.steampowered.com/app/618720/1bitHeart/).
